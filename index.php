@@ -200,7 +200,7 @@
         </form>
         <?php 
             if(isset($_POST['sh'])) {
-                $c = "It is believed that they had saved the crew.";
+                $c = "It is believed that the crew has been saved by them.";
                 $u = $_POST['h'];
 
                 if($u == $c) {
