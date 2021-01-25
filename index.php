@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Direct or Indirect Speech</title>
+    <title>Acive and Passive Voice</title>
     <style>
         h4 {
             font-size: 20px;
